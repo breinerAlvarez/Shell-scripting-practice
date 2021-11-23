@@ -1,2 +1,2 @@
-my_array=(foo bar baz)
+thththtmy_array=(foo bar baz)
 for index in "${!my_array[@]}"; do echo "$index"; done
