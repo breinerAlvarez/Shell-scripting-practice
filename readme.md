@@ -3,9 +3,20 @@ This is a practice project in order to apply all the knowledge acquired on Platz
 Here I will be explaining some basic Git concepts so that you can learn how to use it in your projects.
 There's nothing you can do about it, hahahhaha.
 A lot of random text since here:
+dd
+ddd
+ddddddd
 
-
-
-
-sksksksksksssssssssssssssssssssssssssssssssssssssssssssssssssskkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkskskskskskksfjfjaññllfkajfkkjfjskjfkdjkjskakjkkuiorituuiu4t4ufijfvkjj
-sskkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+skskdsksksksssssssssssssssssssssssssssssssssssssssssssssssssssskkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkskskskskskksfjfjaññllfkajfkkjfjskjfkdjkjskakjkkuiorituuiu4t4ufijfvkjj
+sskkkdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
